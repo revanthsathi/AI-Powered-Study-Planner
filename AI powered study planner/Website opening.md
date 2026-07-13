@@ -1,0 +1,30 @@
+Type the below commands for backend one by one in cmd
+
+
+
+**cd C:\\Users\\kavya\\.gemini\\antigravity\\scratch\\ai-study-planner\\backend**
+
+**.venv\\Scripts\\activate**
+
+**uvicorn app.main:app --reload --port 8000**
+
+
+
+
+
+Type the below commands for frontend one by one in cmd
+
+
+
+**cd C:\\Users\\kavya\\.gemini\\antigravity\\scratch\\ai-study-planner\\frontend**
+
+**powershell -ExecutionPolicy Bypass -File ../../run\_node.ps1 npm run dev**
+
+
+
+Double click on start\_app folder, a window powershell is opened
+
+Type **http://localhost:3000** then the website opens
+
+
+
